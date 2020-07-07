@@ -1,0 +1,32 @@
+{
+  "name": "passport-anilist",
+  "version": "1.0.0",
+  "description": "Passport.js strategy for anilist.co OAuth2 login",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjavad/passport-anilist.git"
+  },
+  "keywords": [
+    "passport",
+    "anilist",
+    "oauth2",
+    "authentication",
+    "identity"
+  ],
+  "author": "Javad Asgari Shafique",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cjavad/passport-anilist/issues"
+  },
+  "homepage": "https://github.com/cjavad/passport-anilist#readme",
+  "dependencies": {
+    "passport-oauth2": "^1.5.0"
+  }
+}
